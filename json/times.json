@@ -1,0 +1,45 @@
+{
+   "Times": [
+        {
+            "day": "Mon",
+            "pick up": 98,
+            "length of slepp": "5",
+            "screen time": "4",
+            "social": "2"
+          
+            
+        },
+        {
+            "day": "Tue",
+            "pick up": 137,
+            "length of slepp": "7",
+            "screen time": "6",
+            "social": "3"
+            
+        },   
+        {
+            "day": "Wed",
+            "pick up": 72,
+            "length of slepp": "4",
+            "screen time": "5",
+            "social": "2"
+            
+        },
+        {
+            "day": "Thu",
+            "pick up": 69,
+            "length of slepp": "6",
+            "screen time": "7",
+            "social": "5"
+            
+        },
+        {
+            "day": "Fri",
+            "pick up": 64,
+            "length of slepp": "5",
+            "screen time": "4",
+            "social": "2"
+            
+        }
+    ]
+}
